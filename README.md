@@ -98,3 +98,33 @@ Funcionals: Utilitzen funcions: Lisp, Haskell
 Algebraics: Utilitzen sentencies: SQL
 Normalment son llenguatges interpretats
 
+### Tipus (3)
+Tipus de llenguatges imperatius:
+Estructurats: C
+Orientsts a objectes: Java
+Multiparadigma: C++, Javascript
+Son llenguatges orientats a objectes, son tambè estructurats
+Molts d'aquests llenguatges son compilats
+
+### Tipus (4)
+
+Tipus de llenguatges segons el nivell d'abstracció:
+Baix nivell: ensamblador
+Nivell medi: C
+Alt nivell: C++, Java
+
+### Evolució
+Codi binari
+Ensamblador
+Llenguatges estructurats
+Llenguatges orientats a objectes
+
+### Criteris per la selecció d'un llenguatge
+Camp de l'aplicació
+Experiencia previa
+Eines de desenvolupament
+Docmentació disponible
+Base d'usuaris
+Reusabilitat
+Portabilitat
+Imposició del client
